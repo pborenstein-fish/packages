@@ -1,0 +1,3 @@
+type = plugin
+repository = https://github.com/pborenstein-fish/tab_color
+description = dingus to change tab colors
