@@ -2,7 +2,7 @@
 
 
 
-- pborenstein-fish/bangbang
+- pborenstein-fish/bangbang@master
 - pborenstein-fish/classic
 - pborenstein-fish/dots
 - pborenstein-fish/fish_title
