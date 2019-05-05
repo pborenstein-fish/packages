@@ -1,5 +1,6 @@
 # pborenstein fish packages
 
+[foo](bar)
 
 
 -  [bangbang  ]    (https://github.com/pborenstein-fish/bangbang)
