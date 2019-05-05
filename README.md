@@ -1,17 +1,43 @@
 # pborenstein fish packages
 
-[foo](bar)
+## Plugins
+
+- [bangbang  ](https://github.com/pborenstein-fish/bangbang)
+
+  Use `!!` to redo the last command.
+  
+- [dots      ](https://github.com/pborenstein-fish/dots)
+
+  Defines dot functions to climb out of directories quickly:
+  - `...` = `cd ../..`
+  - `....` = `cd ../../..`
+
+- [fish_title](https://github.com/pborenstein-fish/fish_title)
+
+  Set the terminal title according to directory name.
+  Works with `tab_color`.
+
+- [gdiff     ](https://github.com/pborenstein-fish/gdiff)
+
+  Use Git's `diff` to do diffs of arbitrary files.
+
+- [kraken    ](https://github.com/pborenstein-fish/kraken)
+
+  Open GitKraken with the repo in the current directory.
+  
+- [sudo      ](https://github.com/pborenstein-fish/sudo)
+
+  Lets you type `sudo !!` to reëxecute the last command wuth `sudo`.
+
+- [tab_color ](https://github.com/pborenstein-fish/tab_color)
+
+  Sets the iTerm tab color.
 
 
--  [bangbang  ]    (https://github.com/pborenstein-fish/bangbang)
--  [classic   ]    (https://github.com/pborenstein-fish/classic)
--  [dots      ]    (https://github.com/pborenstein-fish/dots)
--  [fish_title]    (https://github.com/pborenstein-fish/fish_title)
--  [gdiff     ]    (https://github.com/pborenstein-fish/gdiff)
--  [ispacefish]    (https://github.com/pborenstein-fish/ispacefish)
--  [kraken    ]    (https://github.com/pborenstein-fish/kraken)
--  [sudo      ]    (https://github.com/pborenstein-fish/sudo)
--  [tab_color ]    (https://github.com/pborenstein-fish/tab_color)
+## Themes
+
+- [classic   ](https://github.com/pborenstein-fish/classic)
+- [ispacefish](https://github.com/pborenstein-fish/ispacefish)
 
 
 using https://github.com/oh-my-fish/packages-main
