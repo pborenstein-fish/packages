@@ -2,7 +2,7 @@
 
 ## Plugins
 
-- [bangbang  ](https://github.com/pborenstein-fish/bangbang)
+### [bangbang  ](https://github.com/pborenstein-fish/bangbang)
 
   Use `!!` to redo the last command.
   
