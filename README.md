@@ -9,6 +9,11 @@ that I use all the time.
 
 Use `!!` to redo the last command.
 
+### [cdp  ](https://github.com/pborenstein-fish/cdp)
+
+Use `-p` to create the directory if it doesn't exist.
+Uses the default cd (not the builtin).
+
 ### [dots      ](https://github.com/pborenstein-fish/dots)
 
 Defines dot functions to climb out of directories quickly:
